@@ -1,20 +1,20 @@
 <h1 align="center">
-    <a href="https://github.com/SpriteOvO/AirPodsDesktop"><img src="/Source/Resource/Image/Icon.svg" alt="Icon" width="128"></a>
+    <a href="https://github.com/ChanHong1024/AirPodsDesktop-v2"><img src="/Source/Resource/Image/Icon.svg" alt="Icon" width="128"></a>
     <br>
     AirPodsDesktop
 </h1>
 <p align="center">AirPods 桌面使用者體驗增進軟體</p>
 <p align="center">
-    <a href="https://github.com/SpriteOvO/AirPodsDesktop/actions/workflows/windows.yml">
-        <img src="https://github.com/SpriteOvO/AirPodsDesktop/actions/workflows/windows.yml/badge.svg"/>
+    <a href="https://github.com/ChanHong1024/AirPodsDesktop-v2/actions/workflows/windows.yml">
+        <img src="https://github.com/ChanHong1024/AirPodsDesktop-v2/actions/workflows/windows.yml/badge.svg"/>
     </a>
-    <a href="https://github.com/SpriteOvO/AirPodsDesktop/releases">
-        <img src="https://img.shields.io/github/v/release/SpriteOvO/AirPodsDesktop?include_prereleases"/>
+    <a href="https://github.com/ChanHong1024/AirPodsDesktop-v2/releases">
+        <img src="https://img.shields.io/github/v/release/ChanHong1024/AirPodsDesktop-v2?include_prereleases"/>
     </a>
-    <a href="https://github.com/SpriteOvO/AirPodsDesktop/releases">
-        <img src="https://img.shields.io/github/downloads/SpriteOvO/AirPodsDesktop/total.svg"/>
+    <a href="https://github.com/ChanHong1024/AirPodsDesktop-v2/releases">
+        <img src="https://img.shields.io/github/downloads/ChanHong1024/AirPodsDesktop-v2/total.svg"/>
     </a>
-    <a href="https://github.com/SpriteOvO/AirPodsDesktop/compare">
+    <a href="https://github.com/ChanHong1024/AirPodsDesktop-v2/compare">
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
     </a>
     <a href="/LICENSE">
@@ -37,8 +37,8 @@
 
 ## 🤝 貢獻
 *AirPodsDesktop* 是一個開源項目，您可以透過以下方式貢獻：
-* [開立問題](https://github.com/SpriteOvO/AirPodsDesktop/issues/new/choose) 以回報錯誤或建議新功能。
-* [提取要求](https://github.com/SpriteOvO/AirPodsDesktop/compare) 以修正已知 BUG 或嘗試 TODO 清單中的項目。
+* [開立問題](https://github.com/ChanHong1024/AirPodsDesktop-v2/issues/new/choose) 以回報錯誤或建議新功能。
+* [提取要求](https://github.com/ChanHong1024/AirPodsDesktop-v2/compare) 以修正已知 BUG 或嘗試 TODO 清單中的項目。
 * [翻譯成其它語言](/CONTRIBUTING.md#-translation-guide) 或 [改進現有的翻譯](/CONTRIBUTING.md#-translation-guide)。
 
 ## 💎 第三方
